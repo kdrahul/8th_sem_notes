@@ -7,4 +7,4 @@
 - [[Communications Criteria]]
 - [[IoT Access Technologies]]
 
-- [[Question Paper Questions]]
+- [[Internet-of-Things/Module 2/Question Paper Questions]]

@@ -1,12 +1,14 @@
 # Question Paper Questions
 
 - List and explain different types of sensors.
+	- [[Types of Sensors]]
 - Elaborate on small physical objects and small virtual objects.
 - Explain "IoT Access Technology"
 - Briefly explain protocol stack utilization IEEE 802.15.4
 - What is SANET? Explain some advantages and disadvantages that a wireless based solution offers.
 
 - Define sensors and its characteristics.
+	- [[Sensors]]
 - List out the most useful classification scheme for the pragmatic application of sensors in a IoT network.
 - Briefly describe about communication criteria.
 - What are the main topologies used for IoT connecting devices

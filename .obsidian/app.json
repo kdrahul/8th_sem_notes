@@ -2,5 +2,11 @@
   "legacyEditor": false,
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Big Data Analytics/Assets"
+  "attachmentFolderPath": "Big Data Analytics/Assets",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }

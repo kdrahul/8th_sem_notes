@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8646c7131f3c9f19",
+        "id": "60120e77a68b8a90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Internet-of-Things/Module 1/Module 1.md",
+            "file": "User Interface Design/Module 1/Question Paper Questions.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#very_important",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet-of-Things/Module 1/Module 1.md",
+                "file": "User Interface Design/Module 1/Question Paper Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8646c7131f3c9f19",
+  "active": "60120e77a68b8a90",
   "lastOpenFiles": [
-    "Internet-of-Things/Module 1/Module 1.md",
-    "Big Data Analytics/Module 4/Module 4.md",
-    "Big Data Analytics/Module 4/Artificial Neural Networks.md",
-    "Big Data Analytics/Module 3/Module 3.md",
-    "Big Data Analytics/Module 4/Association Rule Mining.md",
-    "Internet-of-Things/Module 1/The Core IoT Functional Stack.md",
-    "Internet-of-Things/Module 1/Question Paper Questions.md",
-    "Internet-of-Things/Module 2/Module 2.md",
-    "Internet-of-Things/Module 2/Question Paper Questions.md",
-    "Internet-of-Things/Module 1/IoT and Digitization.md"
+    "User Interface Design/Module 1/Question Paper Questions.md",
+    "User Interface Design/Module 4/Question Paper Questions.md",
+    "User Interface Design/Module 3/Question Paper Questions.md",
+    "User Interface Design/Module 5/Question Paper Questions.md",
+    "User Interface Design/Module 2/Question Paper Questions.md",
+    "Internet-of-Things/Module 3/Question Paper Questions.md",
+    "Internet-of-Things/Module 3/Module 3.md",
+    "Message Queueing Telemetry Transport(MQTT).md",
+    "Internet-of-Things/Module 3/Application Protocols for IoT.md",
+    "Actuators and Smart Objects.md"
   ]
 }

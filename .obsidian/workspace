@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Internet-of-Things/Module 4/Module 4.md",
+            "file": "User Interface Design/IA 3.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 268.0107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "331ac7c3daee79cc",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet-of-Things/Module 4/Module 4.md",
+                "file": "User Interface Design/IA 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "60120e77a68b8a90",
   "lastOpenFiles": [
-    "Internet-of-Things/Module 4/Module 4.md",
-    "User Interface Design/Module 3/Question Paper Questions.md",
-    "User Interface Design/Module 1/Question Paper Questions.md",
-    "Internet-of-Things/Module 3/Application Protocols for IoT.md",
-    "Internet-of-Things/Module 3/Constrained Application Protocol(CoAP).md",
-    "Internet-of-Things/Module 3/Message Queueing Telemetry Transport(MQTT).md",
-    "Internet-of-Things/Module 3/Module 3.md",
-    "Internet-of-Things/Module 2/Module 2.md",
-    "User Interface Design/Module 4/Question Paper Questions.md",
-    "User Interface Design/Module 5/Question Paper Questions.md"
+    "User Interface Design/IA 3.md",
+    "User Interface Design/IA 2.md",
+    "User Interface Design/IA 1.md",
+    "Big Data Analytics/IA 2.md",
+    "Big Data Analytics/Assets/HDFS Architecture.png",
+    "Internet-of-Things/ia_2_answers/Advantages of internet protocol.md",
+    "Internet-of-Things/ia_2_answers/ieee_802_15_4_e_g.md",
+    "Internet-of-Things/Internal Assessment 2.md",
+    "Internet-of-Things/ia_2_answers/Communication criteria.md",
+    "Internet-of-Things/ia_2_answers/Compare MQTT and COAP.md"
   ]
 }
